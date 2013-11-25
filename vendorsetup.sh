@@ -1,6 +1,3 @@
-add_lunch_combo purity_toro-userdebug
-add_lunch_combo purity_maguro-userdebug
-add_lunch_combo purity_mako-userdebug
-add_lunch_combo purity_grouper-userdebug
-add_lunch_combo purity_manta-userdebug
-
+add_lunch_combo purity_kumquat-userdebug
+add_lunch_combo purity_nypon-userdebug
+add_lunch_combo purity_lotus-userdebug
